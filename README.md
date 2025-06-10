@@ -1,15 +1,11 @@
+### 🧠 About Me
+
 🎓 Student @ University of Victoria  
 💼 Software Engineer @ Impact.com | 🧑‍💻 Freelance Full-Stack Developer  
 
 ---
 
-### 🧠 About Me
-
-I’m currently working as a Software Engineer at Impact.com and also take on freelance web design projects. I focus on building full-stack web applications using modern Typescript frameworks and tools.
-
----
-
-### 💼 Technical Stack
+### 🚀 Technical Stack
 
 **Frontend**
 - React • Vue • Next.js • TypeScript • TailwindCSS • Storybook
@@ -36,4 +32,4 @@ I’m currently working as a Software Engineer at Impact.com and also take on fr
 
 - 💼 [LinkedIn](https://linkedin.com/in/abdullahbinazeem)  
 - ✉️ [Email](mailto:abdullahbinazeem06@gmail.com)  
-- 🌐 Portfolio: https://abdullahazeem.netlify.app
+- 🌐 [Portfolio](https://abdullahazeem.netlify.app)
