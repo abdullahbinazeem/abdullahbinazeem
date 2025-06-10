@@ -1,5 +1,3 @@
-### 🧠 About Me
-
 🎓 Student @ University of Victoria  
 💼 Software Engineer @ Impact.com | 🧑‍💻 Freelance Full-Stack Developer  
 
@@ -12,10 +10,6 @@
 
 **Backend**
 - Node.js • Express • MongoDB • Java • Spring Boot
-
-**Other**
-- Matplotlib • Unity (Game Engine)
-
 ---
 
 ### 🏅 Competitions & Achievements
@@ -24,7 +18,6 @@
 - 🥈 2nd Place – **RBBS Hacks**
 - 🥈 2nd Place – **University of Victoria Engineering Competition (UVEC)**
 - 🎖️ 4th Place – **Western Engineering Competition (WEC)** 
-
 
 ---
 
