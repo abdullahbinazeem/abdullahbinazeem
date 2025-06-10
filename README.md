@@ -18,7 +18,7 @@ I’m currently working as a Software Engineer at Impact.com and also take on fr
 - Node.js • Express • MongoDB • Java • Spring Boot
 
 **Other**
-- Prisma • Three JS • Matplotlib • Unity (Game Engine)
+- Matplotlib • Unity (Game Engine)
 
 ---
 
