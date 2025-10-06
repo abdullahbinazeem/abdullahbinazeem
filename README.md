@@ -14,7 +14,7 @@
 
 ### 🏅 Competitions & Achievements
 
-- 🥇 1st Place + 🥈 2nd Place – **RBBS Hacks**
+- 🥇 1st Place (2023) + 🥈 2nd Place (2024) – **RBBS Hacks**
 - 🥈 2nd Place – **NASA Space Apps Challenge**
 - 🥈 2nd Place – **University of Victoria Engineering Competition (UVEC)**
 - 🎖️ 4th Place – **Western Engineering Competition (WEC)** 
