@@ -1,5 +1,4 @@
 🎓 Student @ University of Victoria  
-💼 Software Engineer @ Impact.com | 🧑‍💻 Freelance Full-Stack Developer  
 
 ---
 
