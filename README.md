@@ -22,6 +22,6 @@
 
 ### 📫 Let’s Connect
 
-- 💼 [LinkedIn](https://linkedin.com/in/abdullahbinazeem)  
+- 💼 [LinkedIn](https://linkedin.com/in/abdullah-bin-azeem)  
 - ✉️ [Email](mailto:abdullahbinazeem06@gmail.com)  
 - 🌐 [Portfolio](https://abdullahazeem.netlify.app)
